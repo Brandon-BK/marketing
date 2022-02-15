@@ -2,8 +2,12 @@ import Card from "./Card"
 
 const WhoWeAre = () => {
   return (
-        <div style={{width:'100%',padding:'0px 113px',marginTop:40}}>
-            <div style={{display:'flex',justifyContent:'space-between'}}>
+        <div style={{width:'100%',padding:'0px 113px',marginTop:70,display:'flex',alignItems:'center',justifyContent:'center',flexDirection:'column'}}>
+
+<h2 style={{fontWeight:400,marginBottom:20,width:'100%',display:'flex',justifyContent:'center'}}>What We Offer</h2>
+
+<div style={{background:'grey',width:180,height:5}}></div>
+            <div style={{display:'flex',justifyContent:'space-between',marginTop:20,width:'100%'}}>
                 <Card 
                     src="./jane.jpg"
                     name="Jane Doe"
