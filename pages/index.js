@@ -1,6 +1,7 @@
 import Nav from "../components/Nav";
 import Banner from "../components/Banner";
 import WhatWeOffer from "../components/WhatWeOffer";
+import Price from "../components/Price";
 
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
     <Nav />
     <Banner />
     <WhatWeOffer />
+    <Price />
     </>
   )
 }
