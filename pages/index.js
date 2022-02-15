@@ -3,6 +3,7 @@ import Banner from "../components/Banner";
 import WhatWeOffer from "../components/WhatWeOffer";
 import Price from "../components/Price";
 import WhoWeAre from "../components/whoweare/WhoWeAre";
+import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 
 
@@ -14,6 +15,7 @@ export default function Home() {
     <WhatWeOffer />
     <Price />
     <WhoWeAre />
+    <Contact />
     <Footer />
     </>
   )

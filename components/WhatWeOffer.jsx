@@ -2,7 +2,7 @@ import React from 'react'
 
 const WhatWeOffer = () => {
   return (
-    <div style={{width:'100%',marginTop:50,padding:'0 113px'}}>
+    <div style={{width:'100%',marginTop:50,padding:'0 124.5px'}}>
 
         <div style={{width:'100%',display:'flex',justifyContent:'center',alignItems:'center',flexDirection:'column'}}>
              <h2 style={{fontWeight:400,marginBottom:20,width:'100%',display:'flex',justifyContent:'center'}}>What We Offer</h2>
